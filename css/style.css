@@ -1,0 +1,12 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+button{
+margin-left:400px;
+background-color:green;
+color:white;
+width:90px;
+height:50px;
+
+}
