@@ -47,7 +47,7 @@ function resetSketch(){
         if( potentialWinner != 0){
             isWinner = true;
             textSize(32);
-            fill(255);
+            fill(0);
             if(potentialWinner == 1){
               text("Winner is red",width/2-w/2,height/2);
             }
